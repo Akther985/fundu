@@ -1,0 +1,111 @@
+@media only screen and (min-width: 1200px) and (max-width:1400px){
+    .main-menu ul li {        
+        padding-left: 80px;
+    } 
+    .terms-privacy ul {        
+        padding-left: 30%;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width:1200px){
+    .main-menu ul li {        
+        padding-left: 50px;
+    }
+    .terms-privacy ul {        
+        padding-left: 20%;
+    }
+
+}
+@media only screen and (min-width: 992px) and (max-width:1200px){
+    .main-menu ul li {        
+        padding-left: 50px;
+    }
+    .terms-privacy ul {        
+        padding-left: 20%;
+    }
+
+}
+/*tablet layout768px*/
+@media only screen and (min-width: 768px) and (max-width:991px){
+    .main-menu ul li {        
+        padding-left: 40px;
+    }
+    .life-img-info h3 {
+        font-size: 24px;        
+    }
+    .life-img-info p {
+        font-size: 14px;        
+        line-height: 24px;
+    }
+    .more-btn-here a {
+        color: #626262;
+        padding: 12px 30px;
+        border: 1px solid black;
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Playfair Display', serif;
+    }
+    .terms-privacy ul {        
+        padding-left: 20%;
+    }
+    .life-img img {
+        width: 100%;
+        height: 260px;
+    }
+
+}
+/* mobile layout:320px*/
+@media only screen and (max-width:767px){
+    .logo {
+        padding: 30px 0;
+        text-align: center;
+    }
+    .main-menu ul li {        
+        padding: 10px;
+    }
+    .main-menu ul li a {        
+        font-size: 11px;
+        padding: 20px 0;
+    }
+    .main-menu {        
+        text-align: center;
+    }
+    .main-menu ul {
+        text-align: center;
+    }
+    .leave_comment a {        
+        margin: 15px 0;
+        
+    }
+    .lifestyle-area {
+        padding: 20px 0;
+    }
+    .terms-privacy ul {        
+        padding: 10px 0px;
+        padding-left: none;
+        justify-content: center;
+    }
+    .terms-privacy ul li a {
+        padding-right: 10px;
+        color: #5e5e5e;
+    }
+    .social-list {
+        justify-content: center;
+        padding: 10px 0px;
+        display: flex;
+    }
+    .social-list li {
+        padding-left: 10px;
+        color: #5e5e5e;
+    }
+    .more-btn-here a {
+        color: #626262;
+        padding: 12px 30px;
+        border: 1px solid black;
+        font-size: 26px;
+        font-weight: 500;
+        font-family: 'Playfair Display', serif;
+    }
+}
+
+
+
